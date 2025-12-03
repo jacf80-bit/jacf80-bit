@@ -14,3 +14,4 @@ Here are some ideas to get you started: -->
 <img width="64" height="64" alt="vscode" src="https://github.com/user-attachments/assets/165adf4d-c12c-4b85-892a-cbbffc1c5339" />
 <img width="200" height="67" alt="python-logo-master-v3-TM" src="https://github.com/user-attachments/assets/74e0a8bb-1db0-4121-9374-5ad5a8de47bc" />
 <img width="157" height="65" alt="SSMS" src="https://github.com/user-attachments/assets/a5678ea7-03c0-4d87-8b71-d9a4fd44d86b" />
+![power-bi](https://github.com/user-attachments/assets/4345c72a-9cec-4321-b38c-8998c7d8329d)
