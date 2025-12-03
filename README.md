@@ -15,4 +15,4 @@ Here are some ideas to get you started: -->
 <img width="200" height="67" alt="python-logo-master-v3-TM" src="https://github.com/user-attachments/assets/74e0a8bb-1db0-4121-9374-5ad5a8de47bc" />
 <img width="157" height="65" alt="SSMS" src="https://github.com/user-attachments/assets/a5678ea7-03c0-4d87-8b71-d9a4fd44d86b" />
 <img width="65" height="73" alt="power-bi" src="https://github.com/user-attachments/assets/e3317dc3-502a-4763-811e-89bc1776cf7c" />
-<img width="116" height="22" alt="conda" src="https://github.com/user-attachments/assets/3e64e1ff-1911-4c29-a2b4-87b7b93f7c29" />
+<img width="116" height="65" alt="conda" src="https://github.com/user-attachments/assets/3e64e1ff-1911-4c29-a2b4-87b7b93f7c29" />
