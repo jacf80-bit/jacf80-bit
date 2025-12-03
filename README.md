@@ -11,4 +11,4 @@ Here are some ideas to get you started: -->
 
 ## Las tecnologías que utilizo son:
 <img width="338" height="126" alt="looker" src="https://github.com/user-attachments/assets/5fb6c74c-3782-4a2e-88ad-a59659eb5420" />
-<img width="1024" height="1024" alt="vscode" src="https://github.com/user-attachments/assets/165adf4d-c12c-4b85-892a-cbbffc1c5339" />
+<img width="256" height="256" alt="vscode" src="https://github.com/user-attachments/assets/165adf4d-c12c-4b85-892a-cbbffc1c5339" />
