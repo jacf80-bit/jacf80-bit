@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋 soy Antonio Contreras</h1>
 <h3 align="center">Un apasionado analista de datos de México</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacf80-bit&label=Profile%20views&color=0e75b6&style=flat" alt="jacf80-bit" /> </p>
 <!--
 **jacf80-bit/jacf80-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
