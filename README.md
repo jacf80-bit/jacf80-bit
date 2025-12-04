@@ -1,4 +1,5 @@
-## Hola 👋 soy Antonio Contreras
+<h1 align="center">Hola 👋 soy Antonio Contreras</h1>
+<h3 align="center">Un apasionado analista de datos de México</h3>
 
 <!--
 **jacf80-bit/jacf80-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,9 +10,5 @@ Here are some ideas to get you started: -->
 - 💼 Busco colaborar con el sector privado en materia de análisis de datos
 - 📫 Me encuentras en: jacf80@gmail.com
 
-## Las tecnologías que utilizo son:
-<img width="169" height="63" alt="looker" src="https://github.com/user-attachments/assets/5fb6c74c-3782-4a2e-88ad-a59659eb5420" />
-<img width="64" height="64" alt="vscode" src="https://github.com/user-attachments/assets/165adf4d-c12c-4b85-892a-cbbffc1c5339" />
-<img width="200" height="67" alt="python-logo-master-v3-TM" src="https://github.com/user-attachments/assets/74e0a8bb-1db0-4121-9374-5ad5a8de47bc" />
-<img width="157" height="65" alt="SSMS" src="https://github.com/user-attachments/assets/a5678ea7-03c0-4d87-8b71-d9a4fd44d86b" />
-<img width="65" height="73" alt="power-bi" src="https://github.com/user-attachments/assets/e3317dc3-502a-4763-811e-89bc1776cf7c" />
+<h3 align="left">Las herramientas que utilizo son:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
