@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy Antonio Contreras</h1>
-<h3 align="center">Un apasionado analista de datos de México</h3>
+<h3 align="center">Analista de datos de México</h3>
 
 <!--
 **jacf80-bit/jacf80-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
