@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - ⚡ Un dato curioso sobre mi: **me resbalé 1km del Pico de Orizaba en Veracruz**
 - 🚀 Me motiva: **transformar datos en insights estratégicos que apoyen la toma de decisiones**
 - 🌐 Aplicar mi visión internacionalista para interpretar información en contextos globales y multiculturales
-- 🛠️ Optimizar procesos con herramientas como Python, SQL, Looker y Power BI, asegurando claridad en la comunicación
+- 🛠️ Optimizar procesos con herramientas como Python, SQL, Looker y Power BI, para asegurar claridad en la comunicación de resultados
 - 🎯 Generar impacto medible en las organizaciones, alineando la gestión de datos con objetivos de crecimiento y mejora continua
 
 <h3 align="left">Las herramientas que utilizo son:</h3>
