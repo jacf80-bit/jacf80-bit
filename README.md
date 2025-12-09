@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 <img width="170" height="65" alt="looker" src="https://github.com/user-attachments/assets/0ad6733a-2b86-47a1-87b4-0b2041bfc718" />
 <img width="65" height="73" alt="power-bi" src="https://github.com/user-attachments/assets/f48228bd-e3ac-4570-9fe4-324a6840e8bd" />
 <img width="64" height="64" alt="vscode" src="https://github.com/user-attachments/assets/c7fa25a1-4027-48b9-b0cc-f3555d3b7431" />
-<img width="124" height="65" alt="python-logo-master-v3-TM" src="https://github.com/user-attachments/assets/484e4022-a484-44b9-998e-70b6645ebbbf" />
-<img width="97" height="102" alt="mysql" src="https://github.com/user-attachments/assets/66722b0c-e085-471c-ba2c-d15caee8b3e0" />
+<img width="186" height="65" alt="python-logo-master-v3-TM" src="https://github.com/user-attachments/assets/484e4022-a484-44b9-998e-70b6645ebbbf" />
+<img width="146" height="102" alt="mysql" src="https://github.com/user-attachments/assets/66722b0c-e085-471c-ba2c-d15caee8b3e0" />
 
 
