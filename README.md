@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 Me encuentro estudiando la profesión de **analista de datos**
 - 💼 Busco colaborar con el sector privado en materia de **análisis de datos**
 - 📫 Me encuentras en: **jacf80@gmail.com**
-- ⚡ Un dato curioso sobre mi: **me resbalé 1km del Pico de Orizaba en Veracruz**
+- ⚡ Un dato curioso sobre mi: **me resbalé 1km del Pico de Orizaba en Veracruz** afortunadamente vivo para coontarlo 😅
 - 🚀 Me motiva: **transformar datos en insights estratégicos que apoyen la toma de decisiones**
 - 🌐 Aplicar mi visión internacionalista para interpretar información en contextos globales y multiculturales
 - 🛠️ Optimizar procesos con herramientas como Python, SQL, Looker y Power BI, para comunicar resultados
