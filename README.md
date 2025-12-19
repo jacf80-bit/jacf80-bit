@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy Antonio Contreras</h1>
-<h3 align="center">Analista de datos de México</h3>
+<h3 align="center">Analista de datos</h3>
 
 <!--
 **jacf80-bit/jacf80-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,7 @@
 Here are some ideas to get you started: -->
 
 - 🌱 Me encuentro estudiando la profesión de **analista de datos**
-- 💼 Busco colaborar con el sector privado en materia de **análisis de datos**
+- 💼 Busco colaborar con el sector público o privado en materia de **análisis de datos**
 - 📫 Me encuentras en: **jacf80@gmail.com**
 - ⚡ Un dato curioso sobre mi: **me resbalé 1km del Pico de Orizaba en Veracruz** afortunadamente vivo para contarlo 😅
 - 🚀 Me motiva: **transformar datos en insights estratégicos que apoyen la toma de decisiones**
